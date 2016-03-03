@@ -1,10 +1,16 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/Resso/bloc/blocitoff/spec/controllers/home_controller_spec.rb": [
+      "/Users/resso/bloc/blocitoff/spec/controllers/home_controller_spec.rb": [
         1,
         null,
         1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
         1,
         1,
         1,
@@ -14,7 +20,7 @@
         null,
         null
       ],
-      "/Users/Resso/bloc/blocitoff/spec/rails_helper.rb": [
+      "/Users/resso/bloc/blocitoff/spec/rails_helper.rb": [
         null,
         1,
         1,
@@ -24,6 +30,7 @@
         1,
         1,
         null,
+        1,
         null,
         null,
         null,
@@ -44,6 +51,9 @@
         null,
         1,
         null,
+        1,
+        1,
+        1,
         1,
         null,
         1,
@@ -74,14 +84,14 @@
         null,
         null
       ],
-      "/Users/Resso/bloc/blocitoff/config/environment.rb": [
+      "/Users/resso/bloc/blocitoff/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "/Users/Resso/bloc/blocitoff/config/application.rb": [
+      "/Users/resso/bloc/blocitoff/config/application.rb": [
         1,
         null,
         1,
@@ -93,7 +103,7 @@
         1,
         1,
         1,
-        null,
+        1,
         null,
         null,
         null,
@@ -118,12 +128,12 @@
         null,
         null
       ],
-      "/Users/Resso/bloc/blocitoff/config/boot.rb": [
+      "/Users/resso/bloc/blocitoff/config/boot.rb": [
         1,
         null,
         1
       ],
-      "/Users/Resso/bloc/blocitoff/config/environments/test.rb": [
+      "/Users/resso/bloc/blocitoff/config/environments/test.rb": [
         1,
         null,
         null,
@@ -165,22 +175,14 @@
         null,
         null,
         null,
+        1,
         null
       ],
-      "/Users/Resso/bloc/blocitoff/config/initializers/assets.rb": [
+      "/Users/resso/bloc/blocitoff/config/initializers/assets.rb": [
         null,
         null,
         null,
         1,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "/Users/Resso/bloc/blocitoff/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -189,12 +191,21 @@
         null,
         null
       ],
-      "/Users/Resso/bloc/blocitoff/config/initializers/cookies_serializer.rb": [
+      "/Users/resso/bloc/blocitoff/config/initializers/backtrace_silencers.rb": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/resso/bloc/blocitoff/config/initializers/cookies_serializer.rb": [
         null,
         null,
         1
       ],
-      "/Users/Resso/bloc/blocitoff/config/initializers/devise.rb": [
+      "/Users/resso/bloc/blocitoff/config/initializers/devise.rb": [
         null,
         null,
         1,
@@ -212,35 +223,8 @@
         1,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         1,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
         null,
         null,
         null,
@@ -267,16 +251,26 @@
         null,
         null,
         null,
-        null,
-        null,
-        null,
-        null,
-        null,
+        1,
         null,
         null,
         null,
         null,
         1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null,
@@ -310,6 +304,23 @@
         null,
         null,
         null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null,
@@ -324,7 +335,7 @@
         1,
         null,
         null,
-        null,
+        1,
         null,
         null,
         null,
@@ -461,13 +472,13 @@
         null,
         null
       ],
-      "/Users/Resso/bloc/blocitoff/config/initializers/filter_parameter_logging.rb": [
+      "/Users/resso/bloc/blocitoff/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "/Users/Resso/bloc/blocitoff/config/initializers/inflections.rb": [
+      "/Users/resso/bloc/blocitoff/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -485,18 +496,32 @@
         null,
         null
       ],
-      "/Users/Resso/bloc/blocitoff/config/initializers/mime_types.rb": [
+      "/Users/resso/bloc/blocitoff/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null
       ],
-      "/Users/Resso/bloc/blocitoff/config/initializers/session_store.rb": [
+      "/Users/resso/bloc/blocitoff/config/initializers/session_store.rb": [
         null,
         null,
         1
       ],
-      "/Users/Resso/bloc/blocitoff/config/initializers/wrap_parameters.rb": [
+      "/Users/resso/bloc/blocitoff/config/initializers/setup_mail.rb": [
+        1,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/resso/bloc/blocitoff/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -512,43 +537,86 @@
         null,
         null
       ],
-      "/Users/Resso/bloc/blocitoff/config/routes.rb": [
+      "/Users/resso/bloc/blocitoff/spec/factories/users.rb": [
         1,
         1,
-        1,
-        null,
-        null
-      ],
-      "/Users/Resso/bloc/blocitoff/app/models/user.rb": [
-        1,
-        null,
-        null,
-        1,
-        null,
-        null
-      ],
-      "/Users/Resso/bloc/blocitoff/app/helpers/application_helper.rb": [
-        1,
-        null
-      ],
-      "/Users/Resso/bloc/blocitoff/app/helpers/home_helper.rb": [
-        1,
-        null
-      ],
-      "/Users/Resso/bloc/blocitoff/app/controllers/home_controller.rb": [
         1,
         1,
         null,
         null
       ],
-      "/Users/Resso/bloc/blocitoff/app/controllers/application_controller.rb": [
+      "/Users/resso/bloc/blocitoff/config/routes.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/resso/bloc/blocitoff/app/models/user.rb": [
         1,
         null,
         null,
         1,
+        null,
+        null
+      ],
+      "/Users/resso/bloc/blocitoff/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/resso/bloc/blocitoff/app/helpers/home_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/resso/bloc/blocitoff/app/helpers/users_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/resso/bloc/blocitoff/app/controllers/home_controller.rb": [
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/resso/bloc/blocitoff/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/resso/bloc/blocitoff/spec/controllers/users_controller_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/resso/bloc/blocitoff/app/controllers/users_controller.rb": [
+        1,
+        1,
+        1,
+        null,
         null
       ]
     },
-    "timestamp": 1456810844
+    "timestamp": 1456957997
   }
 }
