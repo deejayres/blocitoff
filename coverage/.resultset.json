@@ -1,11 +1,11 @@
 {
   "RSpec": {
     "coverage": {
-<<<<<<< HEAD
+
       "/Users/eresso/dev/bloc/blocitoff/spec/controllers/home_controller_spec.rb": [
-=======
+
       "/Users/brittanymartin/projects/deejayres/blocitoff/spec/controllers/home_controller_spec.rb": [
->>>>>>> 5937e8bb0613537a12faa39ff32c298ccdc8309f
+
         1,
         null,
         1,
@@ -24,11 +24,11 @@
         null,
         null
       ],
-<<<<<<< HEAD
+
       "/Users/eresso/dev/bloc/blocitoff/spec/rails_helper.rb": [
-=======
+
       "/Users/brittanymartin/projects/deejayres/blocitoff/spec/rails_helper.rb": [
->>>>>>> 5937e8bb0613537a12faa39ff32c298ccdc8309f
+
         null,
         1,
         1,
@@ -92,22 +92,16 @@
         null,
         null
       ],
-<<<<<<< HEAD
       "/Users/eresso/dev/bloc/blocitoff/config/environment.rb": [
-=======
       "/Users/brittanymartin/projects/deejayres/blocitoff/config/environment.rb": [
->>>>>>> 5937e8bb0613537a12faa39ff32c298ccdc8309f
         null,
         1,
         null,
         null,
         1
       ],
-<<<<<<< HEAD
       "/Users/eresso/dev/bloc/blocitoff/config/application.rb": [
-=======
       "/Users/brittanymartin/projects/deejayres/blocitoff/config/application.rb": [
->>>>>>> 5937e8bb0613537a12faa39ff32c298ccdc8309f
         1,
         null,
         1,
@@ -144,20 +138,14 @@
         null,
         null
       ],
-<<<<<<< HEAD
+
       "/Users/eresso/dev/bloc/blocitoff/config/boot.rb": [
-=======
-      "/Users/brittanymartin/projects/deejayres/blocitoff/config/boot.rb": [
->>>>>>> 5937e8bb0613537a12faa39ff32c298ccdc8309f
         1,
         null,
         1
       ],
-<<<<<<< HEAD
       "/Users/eresso/dev/bloc/blocitoff/config/environments/test.rb": [
-=======
-      "/Users/brittanymartin/projects/deejayres/blocitoff/config/environments/test.rb": [
->>>>>>> 5937e8bb0613537a12faa39ff32c298ccdc8309f
+
         1,
         null,
         null,
@@ -219,11 +207,9 @@
         null,
         null
       ],
-<<<<<<< HEAD
+
       "/Users/eresso/dev/bloc/blocitoff/config/initializers/backtrace_silencers.rb": [
-=======
-      "/Users/brittanymartin/projects/deejayres/blocitoff/config/initializers/backtrace_silencers.rb": [
->>>>>>> 5937e8bb0613537a12faa39ff32c298ccdc8309f
+
         null,
         null,
         null,
@@ -232,20 +218,13 @@
         null,
         null
       ],
-<<<<<<< HEAD
       "/Users/eresso/dev/bloc/blocitoff/config/initializers/cookies_serializer.rb": [
-=======
-      "/Users/brittanymartin/projects/deejayres/blocitoff/config/initializers/cookies_serializer.rb": [
->>>>>>> 5937e8bb0613537a12faa39ff32c298ccdc8309f
         null,
         null,
         1
       ],
-<<<<<<< HEAD
+
       "/Users/eresso/dev/bloc/blocitoff/config/initializers/devise.rb": [
-=======
-      "/Users/brittanymartin/projects/deejayres/blocitoff/config/initializers/devise.rb": [
->>>>>>> 5937e8bb0613537a12faa39ff32c298ccdc8309f
         null,
         null,
         1,
