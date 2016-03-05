@@ -1,3 +1,9 @@
 <h1>Welcome <%= @user.email %>!</h1>
-<p>Your to-do list will be here some day!</p>
-<%= render partial: 'items/form', locals: { user: @user, item: Item.new } %>
+<ul class="list-group">
+  <% @user.items.each do |item| %>
+    <%= render partial: 'items/item', locals: { user: @user, item: item } %>
+  <% end %>
+  <li class='list-group-item'>
+    <%= render partial: 'items/form', locals: { user: @user, item: Item.new } %>
+  </li>
+</ul>
