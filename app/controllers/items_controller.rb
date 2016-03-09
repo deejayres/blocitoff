@@ -18,10 +18,8 @@ class ItemsController < ApplicationController
 
     if @item.destroy
       flash[:notice] = "You did it! Good job!"
-      # redirect_to root_path
     else
       flash.now[:alert] = "There as an error completing your to-do, please try again."
-      # redirect_to root_path
     end
 
     respond_to do |format|
