@@ -2,5 +2,8 @@
   <li class="list-group-item">
     <%= link_to "", [item.user, item], method: :delete, remote: true, class: 'glyphicon glyphicon-ok' %>
     <%= item.name %>
+    <div class="pull-right">
+      <small><em><%= distance_of_time_in_words(item.created_at + 7.days, Time.now)%> to go!</em></small>
+    </div>
   </li>
 <% end %>
