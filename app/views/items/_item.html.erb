@@ -2,5 +2,8 @@
   <li class="list-group-item">
     <%= link_to "", [item.user, item], method: :delete, remote: true, class: 'glyphicon glyphicon-ok' %>
     <%= item.name %>
+    <div class="pull-right">
+      <small><em><%= item.time_left %> days to go!</em></small>
+    </div>
   </li>
 <% end %>
