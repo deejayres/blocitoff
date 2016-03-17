@@ -1,4 +1,8 @@
-<h1>Welcome <%= @user.email %>!</h1>
+<div class="container">
+  <div class="row col-md-6 col-md-offset-3">
+    <h1><center>Alright <%= @user.username %>, get crackin!</h1></center>
+  </div>
+</div>
 <ul class="list-group">
   <%=  render @user.items %>
   <li class='list-group-item'>
